@@ -41,18 +41,18 @@ spring-microservices/
 
 ## Features Implemented
 
-✅ **Proper layered architecture** (Controller → Service → Repository)
-✅ **Exception handling** with custom exceptions
-✅ **Input validation** and DTOs
-✅ **Service discovery** with Eureka
-✅ **API Gateway** with routing
-✅ **Distributed configuration**
-✅ **Comprehensive logging**
-✅ **Metrics collection** with Micrometer
-✅ **Distributed tracing**
-✅ **Health checks** and readiness probes
-✅ **Docker containerization**
-✅ **OpenAPI documentation**
+1. **Proper layered architecture** (Controller → Service → Repository -> Model)
+2. **Exception handling** with custom exceptions
+3. **Input validation** and DTOs
+4. **Service discovery** with Eureka
+5. **API Gateway** with routing
+6. **Distributed configuration**
+7. **Comprehensive logging**
+8. **Metrics collection** with Micrometer
+9. **Distributed tracing**
+10 **Health checks** and readiness probes
+11. **Docker containerization**
+12. **OpenAPI documentation**
 
 ## Getting Started
 
