@@ -74,7 +74,7 @@ spring:
         - DedupeResponseHeader=Access-Control-Allow-Credentials Access-Control-Allow-Origin
 
 server:
-  port: 8083
+  port: 8080
 
 management:
   endpoints:
